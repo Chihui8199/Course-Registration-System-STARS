@@ -1,0 +1,15 @@
+Brandon|Student1|U1001|Singaporean|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-11-23-59
+Eugene|Student2|U1002|Malaysian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-15-23-59
+James|Student3|U1003|Singaporean|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-15-23-59
+Jun Jie|Student4|U1004|Malaysian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-10-15-23-59
+Jonathan|Student5|U1005|Malaysian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-10-15-23-59
+Danny|Student6|U1006|Malaysian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-10-15-23-59
+Xin Yi|Student7|U1007|Malaysian|FEMALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-10-15-23-59
+Stanley Chang|Student8|U1008|Singaporean|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-10-15-23-59
+Leon Gurtler|Student9|U1009|Australian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-10-15-23-59
+An Jie|Student10|U1010|Malaysian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-15-23-59
+Isabella Chua|Student11|U1011|German|FEMALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-15-23-59
+Elaine Lim|Student12|U1012|Malaysian|FEMALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-10-15-23-59
+Yi Heng|Student13|U1013|Indonesian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-15-23-59
+Luke Tan|Student14|U1014|Malaysian|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-15-23-59
+Jamus Lee|Student15|U1015|Singaporean|MALE|de_jun98@hotmail.com|2020-10-10-8-0|2020-12-20-23-59
