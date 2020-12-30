@@ -2,7 +2,7 @@
 
 
 
-** To run the program in Unix terminal, follow the commands below in order:
+#### To run the program in Unix terminal, follow the commands below in order:
 
 1. cd src
 2. javac -cp ".:libs/*" Main.java
@@ -10,7 +10,7 @@
 
 
 
-**To run the program in Windows, follow the commands below in order: **
+#### To run the program in Windows, follow the commands below in order: 
 
 1. cd src
 2. javac -cp “.;libs/*" Main.java
@@ -18,11 +18,11 @@
 
 
 
-**To view the javadoc, open "index.html" in the "javadoc" folder using any browser if your choice.
+#### To view the javadoc, open "index.html" in the "javadoc" folder using any browser if your choice.
 
 
 
-**To change the email to which the notification is sent to: 
+#### To change the email to which the notification is sent to: 
 Find Students.txt in the path "src/data/preload/Students.txt" and change email from ‘de_jun98@hotmail.com’ to the required email for individual students.
 
 
@@ -31,7 +31,7 @@ Note that after changing the "src/data/preload/Students.txt" file, you should de
 
 
 
-**The preloaded login information is provided as follows:
+#### The preloaded login information is provided as follows:
 
 Preloaded Student Log-In Information
 UserID  |  Password
@@ -58,7 +58,7 @@ Admin2  |  password2
 
 
 <br><br>
-### Application Demonstration: https://www.youtube.com/watch?v=wbPBIBWeg7s&feature=youtu.be
+## Application Demonstration: https://www.youtube.com/watch?v=wbPBIBWeg7s&feature=youtu.be
 
 
 
