@@ -2,7 +2,7 @@
 
 
 
-**To run the program in Unix terminal, follow the commands below in order: 
+** To run the program in Unix terminal, follow the commands below in order:
 
 1. cd src
 2. javac -cp ".:libs/*" Main.java
@@ -10,7 +10,7 @@
 
 
 
-**To run the program in Windows, follow the commands below in order: 
+**To run the program in Windows, follow the commands below in order: **
 
 1. cd src
 2. javac -cp “.;libs/*" Main.java
